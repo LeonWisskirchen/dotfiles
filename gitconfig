@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hipwis@web.de
+	name = Leon Wisskirchen
